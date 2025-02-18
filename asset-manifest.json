@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/test-project/static/css/main.97290121.css",
+    "main.js": "/test-project/static/js/main.cedbacb0.js",
+    "static/js/453.c5932eb1.chunk.js": "/test-project/static/js/453.c5932eb1.chunk.js",
+    "static/media/Calendar.svg": "/test-project/static/media/Calendar.155324a4207f85ac2472.svg",
+    "index.html": "/test-project/index.html",
+    "static/media/Radiobutton.svg": "/test-project/static/media/Radiobutton.88eb0a26af56c5da14c3.svg",
+    "static/media/SwichOff.svg": "/test-project/static/media/SwichOff.c9e50a04d58cdd5ce5f1.svg",
+    "main.97290121.css.map": "/test-project/static/css/main.97290121.css.map",
+    "main.cedbacb0.js.map": "/test-project/static/js/main.cedbacb0.js.map",
+    "453.c5932eb1.chunk.js.map": "/test-project/static/js/453.c5932eb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97290121.css",
+    "static/js/main.cedbacb0.js"
+  ]
+}
